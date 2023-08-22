@@ -9,6 +9,10 @@ import relayServerConfig from "../constans/relay_server_config";
 import { pollRequestUntilTerminalState } from "../utils/pollRequestUnitTerminalState";
 import { ethers, utils } from "ethers";
 import { getPkpsByGoogle } from "../utils/getPkps";
+
+const GOOGLE_CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID;
+console.log("GOOGLE_CLIENT_ID=", GOOGLE_CLIENT_ID);
+
 const RELAY_API_URL = relayServerConfig.relayServerUrl;
 
 const VITE_MINT_PKP_GOOGLE_URL_PATH = relayServerConfig.mintPkpUrlOfGoogle;
