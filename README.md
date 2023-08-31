@@ -1,7 +1,7 @@
 #Project's Description
 
 # Project Description
- From the protocol of Lit Action to developer application.Which is support multiple ways of OAuth2 to login in,such as Google,Discord and Webauthn.Of cource it supports Digtial Wallet to login as well.
+Following the protocol of Lit Action to develop application.Which supports multiple ways of OAuth2 to login in,such as Google,Discord and Webauthn.Of cource it supports Digtial Wallet to login in as well.
 
 # vue-project
 
