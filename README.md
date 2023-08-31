@@ -4,7 +4,7 @@ Following the protocol of Lit Action to develop application.Which supports multi
 
 # Quick Start
 
-create a .env and refer to the [.env_example](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example) file to configure your [VITE_GOOGLE_CLIENT_ID](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example#L=1) for google oauth2 login,because only in the development environment of google supports specific accounts to login.So I separately configure [VITE_GOOGLE_CLIENT_ID](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example#L=1) for those who want to dynamicly configure their own client id of google.  
+create a .env and refer to the [.env_example](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example) file to configure your [VITE_GOOGLE_CLIENT_ID](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example#L=1) for Google oauth2 login,because only in the development environment of Google supports specific accounts to login.So I separately configure [VITE_GOOGLE_CLIENT_ID](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example#L=1) for those who want to dynamicly configure their own Google Client ID .  
 
 # vue-project
 
