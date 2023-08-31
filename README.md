@@ -1,8 +1,7 @@
 #Project's Description
 
-###遵循 Lit Action 协议开发的多方式登录的钱包系统
-包含多种 OAuth2 登录 ，例如 Google，Discord，Webauthn
-好包含 Digtial Wallet 登录
+# Project Description
+ From the protocol of Lit Action to developer application.Which is support multiple ways of OAuth2 to login in,such as Google,Discord and Webauthn.Of cource it supports Digtial Wallet to login as well.
 
 # vue-project
 
