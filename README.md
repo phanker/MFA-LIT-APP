@@ -6,10 +6,6 @@ Following the protocol of Lit Action to develop application.Which supports multi
 
 create a .env and refer to the [.env_example](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example) file to configure your [VITE_GOOGLE_CLIENT_ID](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example#L=1) for Google oauth2 login,because only in the development environment of Google supports specific accounts to login.So I separately configure [VITE_GOOGLE_CLIENT_ID](https://github.com/phanker/MFA-LIT-APP/blob/main/.env.example#L=1) for those who want to dynamicly configure their own Google Client ID .  
 
-# vue-project
-
-This template should help get you started developing with Vue 3 in Vite.
-
 ## Recommended IDE Setup
 
 ## Project Setup
